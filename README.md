@@ -1,3 +1,5 @@
+# visit [https://dicord-clone-6484b.web.app](https://dicord-clone-6484b.web.app) please ignore typo 🤣
+
 This project was bootstrapped with [Create React App](https://github.com/facebook/create-react-app), using the [Redux](https://redux.js.org/) and [Redux Toolkit](https://redux-toolkit.js.org/) template.
 
 ## Available Scripts
