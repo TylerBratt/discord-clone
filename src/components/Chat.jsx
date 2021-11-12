@@ -62,6 +62,9 @@ function Chat() {
       <ChatHeader channelName={channelName}/>
 
       <div className="chat__messages" ref={messageEl}>
+        {!channelName && <div className="chat__sticky">
+          <h2>Welcome to my discord clone.</h2> <p>Feel free to add a channel and send a message</p>
+        </div>}
         {messages.map((message) => 
           <Message 
             key={message.id}

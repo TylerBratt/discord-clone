@@ -5,7 +5,11 @@
   background-color: #363a3f;
   height: 100vh;
 }
-
+.chat__sticky {
+  font-size: 30px;
+  margin: 0 2rem;
+  color: white;
+}
 .chat__messages {
   flex: 1;
   overflow-y: scroll;
